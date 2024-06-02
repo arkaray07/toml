@@ -32,8 +32,7 @@ This will start the development server at http://localhost:3000.
 
 
 ## Features
-> Reservation System: Customers can make reservations for specific dates and times.
-Menu Viewing: Display restaurant menus with detailed descriptions.
-Table Management: Manage available tables, occupancy, and waitlists.
-User Authentication: Implement user authentication for staff and customers.
-Order Processing: Allow customers to place orders directly through the system.
+1. **Reservation System:** Customers can make reservations for specific dates and times.
+2. **Menu Viewing:** Display restaurant menus with detailed descriptions.
+3. **Table Management:** Manage available tables, occupancy, and waitlists.
+
