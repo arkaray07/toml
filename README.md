@@ -29,3 +29,11 @@ Start the Development Server: For development purposes (with hot reloading), use
   npm run start:dev
   ```
 This will start the development server at http://localhost:3000.
+
+
+## Features
+> Reservation System: Customers can make reservations for specific dates and times.
+Menu Viewing: Display restaurant menus with detailed descriptions.
+Table Management: Manage available tables, occupancy, and waitlists.
+User Authentication: Implement user authentication for staff and customers.
+Order Processing: Allow customers to place orders directly through the system.
